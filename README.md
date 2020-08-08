@@ -1,2 +1,2 @@
-# portfolio.io
+# portfolio
 Тренировочный сайт
